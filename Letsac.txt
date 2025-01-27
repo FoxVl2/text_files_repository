@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 The keep was quiet at night.
 A lantern flickered in the tower.
 Someone moved behind the curtain.
+=======
+The bastion was quiet at night.
+A lantern flickered in the tower.
+Shadows moved behind the curtain.
+>>>>>>> second_branch
 Was someone watching?

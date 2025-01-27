@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The river flowed very gently.
+=======
+The river flowed gently.
+>>>>>>> second_branch
 It reflected the moonlight.
 Nearby, an owl hooted.
 The forest seemed alive.
